@@ -10,3 +10,7 @@ To know about the movement,the snake is considered an array.At each grid an arra
 When the snake eats,it means the place where the food is and the snake's stack.peek is at the same place and hence the size increses,score increases and the food must be deleted.
 
 If the snake hits the wall (i.e) if the snake's array is greater than the wall size then it must stop or if it the array value and the stack.peek is the same then stop.
+
+//the audio folder
+
+It is important as the keys are connected to these audios and the movement happens only if the audio file is present.

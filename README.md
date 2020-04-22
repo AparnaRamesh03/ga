@@ -1,5 +1,6 @@
 # game
 The age old snake game.
+
 //The index file.
 It has the canvas tag to add graphics and the normal script tag to add scripting to it.
 

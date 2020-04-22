@@ -28,6 +28,15 @@ let food = {
     y : Math.floor(Math.random()*15+3) * box
 }
 
+let dead = new Audio();
+let eat = new Audio();
+let up = new Audio();
+let right = new Audio();
+let left = new Audio();
+let down = new Audio();
+
+//for the keys to identify the movement
+
 
 
 let score = 0;
